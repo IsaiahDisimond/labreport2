@@ -127,7 +127,7 @@ class Song
     }
 }
 
-class Scratch{
+class SongInput{
     public static void main(String[] args) {
         Song s = new Song("Marry Had A Little Lamb","littlelamb.mp3","Sarah Josepha Hale",174,1877);
         s.InsertSong("Blinding Lights","blindinglights.mp3","The Weeknd",204,2019);
